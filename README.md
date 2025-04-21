@@ -36,11 +36,11 @@ A lightweight University Management System built in Python that leverages **Regu
 2. Run the script
    python main.py
  ## 🧪 Sample Regex Patterns Used
- Name           :  r'^[A-Za-z ]+$'
- Date of Birth  :  r'\d{2}-\d{2}-\d{4}'
- Email Id       :  r'^[a-z0-9]+@gmail.com$'
- Mobile Number  :  r'^[789]\d{9}$'
- Gender         :  r'^Male|Female$'
+ - Name           :  r'^[A-Za-z ]+$'
+ - Date of Birth  :  r'\d{2}-\d{2}-\d{4}'
+ - Email Id       :  r'^[a-z0-9]+@gmail.com$'
+ - Mobile Number  :  r'^[789]\d{9}$'
+ - Gender         :  r'^Male|Female$'
 
  ## 📁 File Structure
 
