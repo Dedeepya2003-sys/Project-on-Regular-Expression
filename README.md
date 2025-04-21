@@ -9,10 +9,11 @@ A lightweight University Management System built in Python that leverages **Regu
 - ✅ Add and manage faculty and staff information
 - ✅ Assign courses to students
 - ✅ Input validation using **regular expressions**:
-  - Student IDs
-  - Email addresses
-  - Phone numbers
-  - Course codes
+  - Student Name
+  - Date of Birth
+  - Email Id
+  - Mobile Numbers
+  - Gender
 - ✅ Simple file-based storage for persistence
 
 ## 🧠 Technologies Used
