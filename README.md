@@ -27,7 +27,7 @@ Field	Regex Pattern	Description
 - Mobile Number  : r'^[789]\d{9}$'
 - Gender         : r'^Male|Female$'
 
-  ## 🧪 Testing
+  
   
 
 
